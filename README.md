@@ -46,7 +46,7 @@ This project replicates the core functionality of Wikipedia, allowing users to s
 
 ## 🌐 Live Demo
 
-👉 https://your-username.github.io/wikipedia-clone/
+👉 https://divyapatelgm.github.io/wekipedia-clone/
 
 ---
 
@@ -70,7 +70,3 @@ wikipedia-clone/
 │── assets/
 ```
 
-
-
-
-This project is licensed under the MIT License.

@@ -1,2 +1,76 @@
-# wekipedia-search-application
-A responsive Wikipedia search web app built with HTML, CSS, Bootstrap, and JavaScript. Features a search bar, live API integration, loading spinner, and dynamic results display. Demonstrates frontend development, API handling, and responsive UI design with clean structure.
+# 📚 Wikipedia Clone Web App
+
+A responsive **Wikipedia Clone Web Application** built using HTML, CSS, Bootstrap, and JavaScript.
+This project replicates the core functionality of Wikipedia, allowing users to search and explore articles in real-time using the Wikipedia API.
+
+---
+
+## ✨ Features
+
+* 🔍 Real-time search functionality
+* 🌐 Wikipedia API integration
+* ⏳ Loading spinner for improved user experience
+* 📄 Dynamic article results display
+* 📱 Fully responsive design
+* 🎨 Clean and intuitive user interface
+
+---
+
+## 🛠 Tech Stack
+
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript (ES6)
+* Wikipedia API
+
+---
+
+## 🚀 Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/wikipedia-clone.git
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd wikipedia-clone
+   ```
+
+3. Open `index.html` in your browser
+
+---
+
+## 🌐 Live Demo
+
+👉 https://your-username.github.io/wikipedia-clone/
+
+---
+
+## 📸 Screenshots
+
+*Add your screenshots here*
+
+* Home Page
+* Search Results
+* Loading State
+
+---
+
+## 📂 Folder Structure
+
+```id="n9f8lc"
+wikipedia-clone/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+```
+
+
+
+
+This project is licensed under the MIT License.
